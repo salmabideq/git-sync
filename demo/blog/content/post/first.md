@@ -4,7 +4,7 @@ draft = true
 title = "first"
 +++
 
-## first port git sync
+## first port
 
 This is the first post.
 
